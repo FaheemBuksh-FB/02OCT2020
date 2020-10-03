@@ -1,0 +1,16 @@
+h1 {
+    color: aqua;
+}
+
+body{
+    /* margin:  0px; */
+    background-image: url(1200px-Test-Logo.svg.png); 
+    background-size: 750px;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    /* background-origin: padding-box; */
+
+    /* width: 300px */
+
+    background-position: right;
+}
